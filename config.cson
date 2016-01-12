@@ -1,0 +1,14 @@
+"*":
+  "exception-reporting":
+    userId: "df2e932e-0f2a-288a-2b78-88b7d497c87e"
+  welcome:
+    showOnStartup: false
+  "vim-mode": {}
+  core: {}
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    tabLength: 4
+    tabType: "soft"
+  "git-plus":
+    gitPath: "D:\\Program Files\\Git\\bin\\git.exe"
