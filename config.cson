@@ -1,14 +1,21 @@
 "*":
-  "exception-reporting":
-    userId: "df2e932e-0f2a-288a-2b78-88b7d497c87e"
-  welcome:
-    showOnStartup: false
-  "vim-mode": {}
-  core: {}
+  core:
+    disabledPackages: [
+      "gitignore-snippets"
+    ]
   editor:
+    fontSize: 17
     invisibles: {}
     showInvisibles: true
     tabLength: 4
     tabType: "soft"
+  "exception-reporting":
+    userId: "df2e932e-0f2a-288a-2b78-88b7d497c87e"
   "git-plus":
     gitPath: "D:\\Program Files\\Git\\bin\\git.exe"
+  "merge-conflicts": {}
+  "one-dark-ui":
+    fontSize: 14
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
